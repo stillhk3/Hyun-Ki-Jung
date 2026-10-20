@@ -16,8 +16,7 @@
 
 ## 👋 About Me
 
-I am an AI researcher interested in computer vision. My research focuses on improving object detection
-and visual recognition models.
+I am an AI researcher with an interest in computer vision. My research focuses on developing object detection, visual recognition, and multimodal models, as well as improving their performance. 😺
 
 ## 🔬 Research Interests
 
@@ -31,7 +30,7 @@ and visual recognition models.
 
 - **Languages:** Python
 - **Deep Learning:** PyTorch
-- **Computer Vision:** OpenCV, YOLO
+- **Computer Vision:** OpenCV
 
 ## 📚 Publications
 
